@@ -1,0 +1,24 @@
+/* Abraham Lincoln */ 
+/* 21 AUG 2021 */ 
+/* Black Goose Bistro */
+
+body {
+    background-color: #faf2e4;
+    margin: 0 10%;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: 1.875rem;
+    border-bottom: 1px solid #57b1dc;
+}
+
+h2 {
+    color #d1633c;
+    font-size: 1rem;
+
+}
