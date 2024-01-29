@@ -3,7 +3,7 @@
 /* Black Goose Bistro */
 
 body {
-    background-color: #faf2e4;
+    background-color: hsl(39, 41%, 92%);
     margin: 0 10%;
     font-family: sans-serif;
 }
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-    color: #d1633c;
+    color: #ea7c5e;
     font-size: 1rem;
 
 }
